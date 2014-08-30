@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+
+#sheet {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#sheet h1 {
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+    line-height: 1.2;
+}
+
+#sheet h2 {
+    font-size: 26px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+#sheet h3 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+#sheet .lead {
+    font-size: 20px;
+}
